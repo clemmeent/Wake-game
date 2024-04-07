@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ItemList
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ ItemList\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemString()
+comment3.params=pStringItem\ pItem
+comment3.target=void\ takeItem(java.lang.String,\ Item)
+comment4.params=pStringItem
+comment4.target=void\ dropItem(java.lang.String)
+comment5.params=pItem
+comment5.target=Item\ getItem(java.lang.String)
+numComments=6
